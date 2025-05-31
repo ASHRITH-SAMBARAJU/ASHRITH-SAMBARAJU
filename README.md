@@ -40,7 +40,7 @@ Published in **International Research Journal of Advanced Engineering Hub (IRJAE
 DOI: [10.47392/IRJAEH.2025.0318](https://doi.org/10.47392/IRJAEH.2025.0318)
 
 ## Aspirations
-I aspire to become an **AI Engineer** and **Cloud Engineer**, focused on building scalable, secure, and intelligent systems. I'm especially interested in applying AI/ML with cloud technologies to drive impact in healthcare, education, and enterprise solutions.
+I aspire to become an AI Engineer backed with cloud technologies, focused on building intelligent, scalable, and secure systems to solve real-world problems.
 
 ## Contact Me
 
