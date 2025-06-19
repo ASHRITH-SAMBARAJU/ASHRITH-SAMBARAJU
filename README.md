@@ -6,7 +6,9 @@ As an Engineering undergraduate specializing in **Artificial Intelligence and Ma
 ## Tech Skills
 
 ### Existing Skills
-- **Programming Languages**     : C, Python, R, JavaScript, MERN Stack  
+- **AI&ML Frameworks**
+  Numpy, Pandas , OpenCV , Matplotlib.
+- **Programming Languages**     : C, Python, R
 - **Database & Data Storage**   : MySQL, MongoDB  
 - **IDEs & Tools**              : Visual Studio, Jupyter, Google Colab  
 - **Frontend Development**      : HTML, CSS, React, Bootstrap  
