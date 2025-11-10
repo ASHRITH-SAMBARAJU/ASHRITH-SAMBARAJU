@@ -1,7 +1,7 @@
 # Ashrith Sambaraju
 
 ## About Me
-As an Engineering undergraduate specializing in **Artificial Intelligence and Machine Learning**, I have a strong foundation in data structures, algorithms, and front-end development. I'm passionate about building AI-driven solutions that connect intelligent systems with user-centric applications. I enjoy working on innovative projects, collaborating with diverse teams, and contributing to meaningful technological advancements.
+As an Engineering graduate specialised in **Artificial Intelligence and Machine Learning**, I have a strong foundation in data structures, algorithms, and front-end development. I'm passionate about building AI-driven solutions that connect intelligent systems with user-centric applications. I enjoy working on innovative projects, collaborating with diverse teams, and contributing to meaningful technological advancements.
 
 ## Tech Skills
 
